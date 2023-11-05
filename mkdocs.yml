@@ -31,21 +31,19 @@ theme:
   # name: windmill <- NEIN. wenig Konfigurationsmöglichkeiten
   # ansehen sphinx https://www.sphinx-doc.org/en/master/usage/quickstart.html 
   # https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
-  logo: assets/jt.jpg
   
-  extra_css:
-    - stylesheets/extras.css     # keine Ahnung, ob die eine Auswirkung hat https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
-
-
+  
+  # logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
+  
   features:
-    - navigation.tabs
-    #- navigation.sections
-    - navigation.footer # gibt einen Zurück-Button im Footer
-    - navigation.tracking # siehe: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
-    - navigation.expand
-    - navigation.path
-    - navigation.indexes 
-    - navigation.top     # Pfeil nach oben wird angezeigt
+    - navigation.tabs         # Nav oben
+    - navigation.tabs.sticky  # Nav oben bleibt auch beim scrollen
+    #- navigation.sections    # blendet links alle sections mit ein
+    - navigation.footer       # gibt einen Zurück-Button im Footer
+    - navigation.tracking     # linke Nav läuft beim Scrollen automatisch mit
+    - navigation.expand       # Nav links ausgeklappt
+    - navigation.indexes      # Keine doppelte Überschriften direkt untereinander
+    - navigation.top          # Pfeil nach oben wird angezeigt
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -68,8 +66,14 @@ theme:
       primary: green
       accent: red
 
+  extra_css:
+    - stylesheets/extras.css     # keine Ahnung, ob die eine Auswirkung hat https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
+
+
+plugins:
+  - social
+
 extra:
-  # generator: false # unterdrückt Made with Material for MkDocs https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#generator-notice
   social:
     - icon: fontawesome/brands/google
       link: https://scholar.google.de/citations?user=-Oj8JzgAAAAJ
@@ -83,7 +87,7 @@ extra:
       link: mailto:joerg.thomaschewski@hs-emden-leer.de 
 
 markdown_extensions:
-  - attr_list  # https://squidfunk.github.io/mkdocs-material/reference/grids/#using-card-grids
+  - attr_list  
   - md_in_html
   - pymdownx.inlinehilite
   - pymdownx.snippets

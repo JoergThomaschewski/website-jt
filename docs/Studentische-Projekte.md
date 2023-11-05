@@ -1,3 +1,2 @@
-Aus Kapazitätsgründen können in diesen Semestern nur wenige studentische Projekte und Abschlussarbeiten von mir betreut werden.
-
+Hier werden zukünftig studentische Projekte angeboten, die sich für Projekt- oder Abschlussarbeiten eignen.
 
