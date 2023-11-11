@@ -24,6 +24,17 @@
 
 
 site_name: Jörg Thomaschewski - Projekte - Forschung - Schulungen - Coaching
+
+nav:
+  - Home: index.md 
+  - Schulungen und Coaching: beratung-und-schulung.md
+  - Studentische Projekte: studentische-projekte.md 
+  - Forschung: forschung.md
+  #- Publikationen:
+  #  - Publikationsübersicht: ausgewaehlte Publikationen.md
+  #  - 2023 Artikel UX Factor Trust: Artikel UX Factor Trust.md
+  - Über mich: ueber-mich.md 
+
 theme:
   name: material
   # name: material <- aus dem Video

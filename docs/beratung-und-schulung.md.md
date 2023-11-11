@@ -2,7 +2,7 @@ Ich habe langjährige Erfahrung in Coaching und Schulungen.
 
 * Bedardsgerechte Schulung in ihrem Unternehmen.
 * Es wird direkt am Projekt gearbeitet, sodass echte Resultate erzielt werden.
-* Quasi Nebenbei wird am Projekt das Grundlagenwissen aufgebaut bzw. ergänzt.
+* Quasi nebenbei wird am Projekt das Grundlagenwissen aufgebaut bzw. ergänzt.
 * Mein Ziel ist erreicht,
     * wenn Grundlagenwissen "sitzt",
     * eine reale Projektverbesserung erzielt wurde und 

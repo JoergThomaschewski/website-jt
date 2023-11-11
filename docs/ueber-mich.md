@@ -1,6 +1,5 @@
 ![Jörg Thomaschewski](assets/jt.jpg){align=left width="120"}
 
-
 Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Technik) mit den Lehr- und Forschungsschwerpunkten **"Agile Software Development and User Experience"** u.a. in den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban, Internet-Programmierung und E-Learning.
 
 ## Gremien-Tätigkeit

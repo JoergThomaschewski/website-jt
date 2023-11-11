@@ -1,11 +1,3 @@
----
-layout: page
-title: Datenschutzerklärung
-permalink: /datenschutzerklaerung/
-nav: footer
-nav-position: 2
----
-
 <h3>Datenschutz</h3>
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 

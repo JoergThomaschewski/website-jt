@@ -1,11 +1,3 @@
----
-layout: page
-title: Impressum
-permalink: /impressum/
-nav: footer
-nav-position: 1
----
-
 <h3>Angaben gemäß § 5 TMG und Kontakt</h3>
 Prof. Dr. Jörg Thomaschewski<br>
 Constantiaplatz 4<br>
