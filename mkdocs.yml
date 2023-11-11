@@ -27,8 +27,7 @@ site_name: Jörg Thomaschewski - Projekte - Forschung - Schulungen - Coaching
 
 nav:
   - Home: index.md 
-  - Blog: 
-    - 2023 WEBIST Artikel UX Factor Trust: Artikel UX Factor Trust.md
+#  - Blog: blog/index.md
   - Schulungen und Coaching: beratung-und-schulung.md
   - Studentische Projekte: studentische-projekte.md 
   - Forschung: forschung.md
@@ -46,9 +45,10 @@ theme:
   
   # logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
   
-  font: false                # Keine Google-Fonts laden
-  # https://fonts.google.com/
-  #  text: Roboto
+  font: false                 # Keine Google-Fonts laden
+
+  #font:                     
+  #  text: Roboto             # https://fonts.google.com/
 
   features:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
@@ -89,9 +89,17 @@ theme:
 plugins:
   - social
   - search
-  - blog
-  - git-revision-date-localized
-
+  - blog:
+      base_path: blog
+      show_recent: 5
+      date_format: '%Y-%m-%d'
+      tags:
+        - Tech
+        - MkDocs
+        - Blogging
+  - git-revision-date-localized:
+      type: 'datetime'
+      locale: 'de'
 
 extra:
   social:

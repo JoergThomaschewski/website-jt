@@ -3,7 +3,7 @@ Seit 2010 gibt es die von mir gegründete Forschungsgruppe __"Research Group for
 Ich bin Mitglied im __Institut für Medien und Technik (IMuT)__ und im __Institut für Informatik der Automatisierungstechnik / Robotik__ sowie im Forschungsschwerpunkt __[Industrielle Informatik](https://www.hs-emden-leer.de/forschung/forschungsprofil/forschungsschwerpunkte/schwerpunkte/industrielle-informatik)__ aktiv.
 
 
-### Mitglieder des Forschungsnetzwerks  
+## Mitglieder des Forschungsnetzwerks  
 * __Prof. Dr. Jörg Thomaschewski__, (Hochschule Emden/Leer, Fachbereich Technik)
 Schwerpunkte "Agile Software Development and User Experience" u.a. mit den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban und E-Learning.
 * __Prof. Dr. Eva-Maria Schön__ (Hochschule Emden/Leer, Fachbereich Wirtschaft)
@@ -30,7 +30,7 @@ Schwerpunkte "Agile Produktentwicklung und Agile Transformation, Mensch-Computer
 * Masterstudentin der Medieninformatik __Katinka Raddy__, B.Sc. - Schwerpunkt "Usability und UX Methoden"
 
 
-### Externe Mitglieder der Forschungsgruppe
+## Externe Mitglieder der Forschungsgruppe
 * __Dr. Jens Hellmers__
 * Dipl. Inf. __Jan Uhlenbrok__ (Fa. NOZ Medien, Osnabrück)
 > Jan Uhlenbrok leitet interdisziplinäre Teams zur digitalen Produktentwicklung und -weiterentwicklung. Regelmäßig bieten sich daher Gelegenheiten, theoretische Ansätze aus der Forschungsgruppe in der Praxis zu testen und die Annahmen so zu verifizieren. In seinem Blog <a markdown="0" target="_blank" href="https://AUTOMAT.im">https://AUTOMAT.im</a> schreibt er über Usability und Technik-Themen.
