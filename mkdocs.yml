@@ -35,16 +35,21 @@ theme:
   
   # logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
   
+  font: false                # Keine Google-Fonts laden
+  # https://fonts.google.com/
+  #  text: Roboto
+
   features:
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
     - navigation.tabs         # Nav oben
     - navigation.tabs.sticky  # Nav oben bleibt auch beim scrollen
-    #- navigation.sections    # blendet links alle sections mit ein
+    - navigation.sections    # blendet links alle sections mit ein
     - navigation.footer       # gibt einen Zurück-Button im Footer
     - navigation.tracking     # linke Nav läuft beim Scrollen automatisch mit
     - navigation.expand       # Nav links ausgeklappt
     - navigation.indexes      # Keine doppelte Überschriften direkt untereinander
     - navigation.top          # Pfeil nach oben wird angezeigt
-    - toc.integrate
+    - toc.integrate           # Ohne Navi auf der rechten Seite
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -67,11 +72,12 @@ theme:
       accent: red
 
   extra_css:
-    - stylesheets/extras.css     # keine Ahnung, ob die eine Auswirkung hat https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
+    - s.css     # keine Ahnung, ob die eine Auswirkung hat https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
 
 
 plugins:
   - social
+#  - search (funktioniert nicht )
 
 extra:
   social:
