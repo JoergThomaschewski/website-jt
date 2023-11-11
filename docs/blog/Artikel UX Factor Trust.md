@@ -1,3 +1,10 @@
+---
+title: Mein Blogpost
+date: 2023-11-11
+author: Max Mustermann
+tags: [Tech, MkDocs, Blogging]
+---
+
 <h3>Artikel</h3>
 
 *Hinderks, Andreas; Schrepp, Martin; Rauschenberger, Maria; Thomaschewski, Jörg (2023): __Reconstruction and Validation of the UX Factor Trust for the User Experience Questionnaire Plus (UEQ+)__. In: Proceedings of the 19th International Conference on Web Information Systems and Technologies (WEBIST 2023)*

@@ -27,12 +27,12 @@ site_name: Jörg Thomaschewski - Projekte - Forschung - Schulungen - Coaching
 
 nav:
   - Home: index.md 
+  - Blog: 
+    - 2023 WEBIST Artikel UX Factor Trust: Artikel UX Factor Trust.md
   - Schulungen und Coaching: beratung-und-schulung.md
   - Studentische Projekte: studentische-projekte.md 
   - Forschung: forschung.md
-  #- Publikationen:
-  #  - Publikationsübersicht: ausgewaehlte Publikationen.md
-  #  - 2023 Artikel UX Factor Trust: Artikel UX Factor Trust.md
+  - Publikationen: publikationen.md
   - Über mich: ueber-mich.md 
 
 theme:
@@ -88,7 +88,10 @@ theme:
 
 plugins:
   - social
-#  - search (funktioniert nicht )
+  - search
+  - blog
+  - git-revision-date-localized
+
 
 extra:
   social:
