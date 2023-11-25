@@ -1,5 +1,4 @@
-Inzwischen habe ich mehr als 120 Publikationen (mit-)veröffentlicht, die übersichtlich aufgelistet sind bei [**Google Scholar**](https://scholar.google.de/citations?sortby=pubdate&hl=de&user=-Oj8JzgAAAAJ){:target="_blank"}.  
-Hier eine kleine Auswahl wichtiger und relativ neuer Publikationen
+Inzwischen habe ich mehr als 120 Publikationen (mit-)veröffentlicht, die übersichtlich aufgelistet sind bei [**Google Scholar**](https://scholar.google.de/citations?sortby=pubdate&hl=de&user=-Oj8JzgAAAAJ){:target="_blank"}. Hier eine kleine Auswahl wichtiger und relativ neuer Publikationen
 
 ### 2023 ###
 
