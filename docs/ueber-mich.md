@@ -30,20 +30,33 @@ Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Techni
 
 
 ## Internationale Beziehungen
-* Seit 2001 	 Universität Vigo/Spanien (Erasmus –Austausch und Forschungsaktivitäten). 
-    * 11/2002 Dr. Garcia Perez-Schofield (Gutachter im Promotionsverfahren)
-    * 11/2004 Dr. Ana Isabel Díez Sánchez (Gutachter im Promotionsverfahren)
-    * 12/2009 Dr. Daniel Edgardo Riesco Yrusta (Gutachter im Promotionsverfahren)
-* Seit 2002 	Universität Barcelona (Erasmus-Austausch und Forschungsaktivitäten)
-* Seit 2003 	Universität Oviedo (Erasmus-Austausch)
-    * 03/2007 Dr. Daniel Fernandez Lanvin (Gutachter im Promotionsverfahren)
-    * 05/2010 Dr. César Fernández Acebal (Gutachter im Promotionsverfahren) 
-    * 04/2013 Dr. Miguel García Rodriguez (Gutachter im Promotionsverfahren)
-* Seit 2003 	Internationale Beziehungen zur Universität Sevilla (Erasmus –Austausch und Forschungsaktivitäten). Prüfer in den Promotionsverfahren  
-    * 02/2017 Dr. Carlos Torrecilla-Salinas (Gutachter im Promotionsverfahren)
-    * 03/2015  – 12/2017 Dr. Eva-Maria Schön (2. Betreuer der Promotion)
-    * 09/2017  – 07/2021 Dr. Andreas Hinderks (2. Betreuer der Promotion)
-    <!-- * 11/2023 Dr. Nicolás Sánchez (Gutachter im Promotionsverfahren)  -->
+Mit allen hier genannten Universitäten gab oder gibt es einen regelmäßigen Austausch internationaler Studierender sowie regelmäßgie Kontakte zum Beipsiel durch Erasmus+ Teaching Mobility. Auch bin ich oftmals in spanische Forschungsprojekte einbezogen. Hier werden als "Highlights" nur die Teilnahme an Promotinosverfahren genannt.
+
+### Universität Vigo/Spanien
+Seit 2001 	 Universität Vigo/Spanien (Erasmus–Austausch und Forschungsaktivitäten, insbesondere mit Prof. Dr. Manuel (Manolo) Pérez Cota). 
+
+* 11/2002 Dr. Garcia Perez-Schofield (Mitglied der Prüfungskommission)
+* 11/2004 Dr. Ana Isabel Díez Sánchez (Mitglied der Prüfungskommission)
+* 12/2009 Dr. Daniel Edgardo Riesco Yrusta (Mitglied der Prüfungskommission)
+
+### Universität Barcelona
+* 2002 - 2012	Universität Barcelona (intensiver Erasmus-Austausch)
+
+### Universität Oviedo
+Seit 2003 	Universität Oviedo (Erasmus-Austausch und Forschungsaktivitäten, insbesondere mit Prof. Dr. Juan Manuel Cueva)
+
+* 03/2007 Dr. Daniel Fernandez Lanvin (Mitglied der Prüfungskommission)
+* 04/2010 Dr. César Fernández Acebal (Internationaler Gutachter der Promotion)
+* 05/2013 Dr. Miguel García Rodriguez (Internationaler Gutachter der Promotion)
+
+### Universität Sevilla
+Seit 2003 	Universität Sevilla (Erasmus–Austausch und Forschungsaktivitäten, insbesondere mit Prof. Dr. María José Escalona). 
+
+* 02/2017 Dr. Carlos Torrecilla-Salinas (Mitglied der Prüfungskommission)
+* 03/2015  – 12/2017 Dr. Eva-Maria Schön (2. Betreuer der Promotion)
+* 09/2017  – 07/2021 Dr. Andreas Hinderks (2. Betreuer der Promotion)
+* 05/2023 Dr. Leticia Morales (Internationaler Gutachter der Promotion)
+* 11/2023 Dr. Nicolás Sánchez (Mitglied der Prüfungskommission)
 
 
 ## Gender

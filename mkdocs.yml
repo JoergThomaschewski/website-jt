@@ -45,6 +45,8 @@ theme:
   
   # logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
   
+  # custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
+
   font: false                 # Keine Google-Fonts laden
 
   #font:                     
@@ -82,8 +84,8 @@ theme:
       primary: green
       accent: red
 
-  extra_css:
-    - s.css     # keine Ahnung, ob die eine Auswirkung hat https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
+extra_css:
+  - stylesheets/extra.css     # keine Ahnung, ob die eine Auswirkung hat https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width 
 
 
 plugins:
