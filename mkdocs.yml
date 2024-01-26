@@ -27,7 +27,6 @@ site_name: Jörg Thomaschewski - Projekte - Forschung - Schulungen - Coaching
 
 nav:
   - Home: index.md 
-#  - Blog: blog/index.md
   - Schulungen und Coaching: beratung-und-schulung.md
   - Studentische Projekte: studentische-projekte.md 
   - Forschung: forschung.md
@@ -56,7 +55,7 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
     - navigation.tabs         # Nav oben
     - navigation.tabs.sticky  # Nav oben bleibt auch beim scrollen
-    - navigation.sections    # blendet links alle sections mit ein
+    - navigation.sections     # blendet links alle sections mit ein
     - navigation.footer       # gibt einen Zurück-Button im Footer
     - navigation.tracking     # linke Nav läuft beim Scrollen automatisch mit
     - navigation.expand       # Nav links ausgeklappt
@@ -91,17 +90,23 @@ extra_css:
 plugins:
   - social
   - search
+  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
   - blog:
-      base_path: blog
-      show_recent: 5
-      date_format: '%Y-%m-%d'
-      tags:
-        - Tech
-        - MkDocs
-        - Blogging
-  - git-revision-date-localized:
-      type: 'datetime'
-      locale: 'de'
+      blog_dir: .
+      post_readtime: false
+  #    base_path: blog
+      # show_recent: 5
+      # date_format: '%Y-%m-%d'
+      #tags:
+      #  - Tech
+      #  - MkDocs
+      #  - Blogging
+  #- git-revision-date-localized:
+  #    type: 'datetime'
+  #    locale: 'de'
+
+extra_javascript:
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 extra:
   social:
@@ -133,6 +138,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.superfences:
+        # make exceptions to highlighting of code:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
 
 copyright: |
-  &copy; 2023 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/weitere/Impressum.html">Impressum</a> --- <a href="https://thomaschewski.de/weitere/Datenschutzerkaerung.html">Datenschutzerklärung</a>
+  &copy; 2023 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/weitere/Impressum.html">Impressum</a> --- <a href="https://thomaschewski.de/weitere/Datenschutzerkaerung.html">Datenschutzerklärung</a> --- <a href="https://thomaschewski.de/weitere/test.html">Testseite mkdocs</a>

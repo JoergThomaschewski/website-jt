@@ -1,4 +1,4 @@
-![Jörg Thomaschewski](assets/jt.jpg){align=left width="120"}
+![Jörg Thomaschewski](assets/jt.jpg){align=left width="20%"}
 
 Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Technik) mit den Lehr- und Forschungsschwerpunkten **"Agile Software Development and User Experience"** u.a. in den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban, Internet-Programmierung und E-Learning.
 
@@ -6,11 +6,11 @@ Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Techni
 * 09/2001  – 12/2002  Studiendekan Fachbereich Technik, Abt. E+I
 * 09/2001  – 05/2019  Mitglied der VFH-Fachausschüsse FAMI und GemKA
 * 12/2002  – 03/2012  Mitglied in der Studienkommission Fachbereich Technik, Abt. E+I
-* 01/2003  – 02/2012  Studiengangssprecher Online Bachelorstudiengang Medieninformatik
-* 09/2005  – 08/2019  Studiengangssprecher Online Masterstudiengang Medieninformatik
+* 01/2003  – 02/2012  Studiengangsprecher Online Bachelorstudiengang Medieninformatik
+* 09/2005  – 08/2019  Studiengangsprecher Online Masterstudiengang Medieninformatik
 * 03/2005  – 02/2020  Vorsitzender der Zulassungskommission für den Online Masterstudiengang Medieninformatik
 * 09/2004  – 02/2015  Mitglied in der Prüfungskommission Abt. E+I, zuständig für die Studiengänge Medientechnik (BA) und Medieninformatik (BA & MA)
-* 03/2015  – 04/2019  Vorsitzender der Prüfungskommission für die Onlinestudiengänge Medieninformatik (BA & MA) Wirtschaftinformatik (BA), Regenerative Energien (BA)
+* 03/2015  – 04/2019  Vorsitzender der Prüfungskommission für die Onlinestudiengänge Medieninformatik (BA & MA) Wirtschaftsinformatik (BA), Regenerative Energien (BA)
 * 03/2010  – 02/2012  Mitglied des Senats der Hochschule Emden/Leer
 * 03/2016  – 02/2018  Mitglied des Senats der Hochschule Emden/Leer
 
@@ -20,7 +20,7 @@ Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Techni
 * 10/2003  – 12/2013  Projektleiter im Institut „Institut für Innovations-Transfer“ (N-Transfer GmbH), Standort Emden. 100% Tochter des Landes Niedersachsen
 * 03/2008  – 12/2013  Institutsleiter des „Institut für Innovations –Transfer“ (N –Transfer GmbH), Standort Emden. 100% Tochter des Landes Niedersachsen
 
-* 2003  Erhalt des mit 10.000 € dotierten Hochschulpreises für die Ausgründung der Firma "Bawur".
+* 2003  Erhalt des mit 10.000 € dotierten Hochschulpreises für die Ausgründung der Firma "Brawur".
 * 2008  Nominiert zum Professor des Jahres (Platzierung unten der Top 10) von UNICUM BERUF in der Kategorie Ingenieure und Informatiker.
 * 2010  – 2013  Initiator und Mitarbeiter im TP3 „Gründungsachse“ der Fachkräfteinitiative „Ems-Achse, beste Köpfe – beste Chancen“ (Gefördert von der N-Bank)
 
@@ -30,7 +30,7 @@ Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Techni
 
 
 ## Internationale Beziehungen
-Mit allen hier genannten Universitäten gab oder gibt es einen regelmäßigen Austausch internationaler Studierender sowie regelmäßgie Kontakte zum Beipsiel durch Erasmus+ Teaching Mobility. Auch bin ich oftmals in spanische Forschungsprojekte einbezogen. Hier werden als "Highlights" nur die Teilnahme an Promotinosverfahren genannt.
+Mit allen hier genannten Universitäten gab oder gibt es einen regelmäßigen Austausch internationaler Studierender sowie regelmäßige Kontakte zum Beispiel durch Erasmus+ Teaching Mobility. Auch bin ich oftmals in spanische Forschungsprojekte einbezogen. Hier werden als "Highlights" nur die Teilnahme an Promotionsverfahren genannt.
 
 ### Universität Vigo/Spanien
 Seit 2001 	 Universität Vigo/Spanien (Erasmus–Austausch und Forschungsaktivitäten, insbesondere mit Prof. Dr. Manuel (Manolo) Pérez Cota). 
@@ -63,7 +63,7 @@ Seit 2003 	Universität Sevilla (Erasmus–Austausch und Forschungsaktivitäten,
 * 2008  Co-Organisator eines Symposiums im Rahmen der Gender-Tage „Frauen für die Technik gewinnen und halten“ 
 * 2008 & 2009  Teilnahme an den Gendertagen und Organisation externer Vorträge sowie Teilnahme an der Tandemlehre
 * 2018  Gründungsmitglied GENDERnet Hochschule Emden/Leer. Seit 06/2018 Beitritt des [GENDERnet in die LAGEN](https://www.nds-lagen.de){:target="_blank"}
-* Diverse wiss. Artikel mit Bezug zum Thema Gender
+* Wissenschaftliche Publikationen mit Bezug zum Thema Gender
 
 
 ## Sonstige Aktivitäten 

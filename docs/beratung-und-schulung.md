@@ -1,6 +1,6 @@
 Ich habe langjährige Erfahrung in Coaching und Schulungen.
 
-* Bedardsgerechte Schulung in ihrem Unternehmen.
+* Bedarfsgerechte Schulung direkt im Unternehmen.
 * Es wird direkt am Projekt gearbeitet, sodass echte Resultate erzielt werden.
 * Quasi nebenbei wird am Projekt das Grundlagenwissen aufgebaut bzw. ergänzt.
 * Mein Ziel ist erreicht,
