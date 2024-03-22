@@ -1,32 +1,30 @@
-Im Jahr 2010 gegründete ich die Forschungsgruppe __"Research Group for Agile Software Development and User Experience"__. Seit Oktober 2020 sind meine Forschungsthemen Teil eines größeren Forschungsnetzwerk zusammen mit den Kolleginnen __Prof. Dr. Eva-Maria Schön__ und __Prof. Dr. Maria Rauschenberger__. 
+Im Jahr 2010 gegründete ich die Forschungsgruppe __"Research Group for Agile Software Development and User Experience"__. Seit Oktober 2020 sind meine Forschungsthemen Teil eines größeren Forschungsnetzwerk zusammen mit __Prof. Dr. Eva-Maria Schön__, __Prof. Dr. Maria Rauschenberger__ und __Prof. Dr. Andreas Hinderks__. 
 
 Ich bin Mitglied im __Institut für Medien und Technik (IMuT)__ und im __Institut für Informatik der Automatisierungstechnik / Robotik__ sowie im Forschungsschwerpunkt __[Industrielle Informatik](https://www.hs-emden-leer.de/forschung/forschungsprofil/forschungsschwerpunkte/schwerpunkte/industrielle-informatik)__ aktiv.
 
 
 ## Mitglieder des Forschungsgruppe  
-* __Prof. Dr. Jörg Thomaschewski__, (Hochschule Emden/Leer, Fachbereich Technik)<br>
+* __Prof. Dr. Jörg Thomaschewski__, that's me :smile: (Hochschule Emden/Leer, Fachbereich Technik)<br>
 Schwerpunkte "Agile Software Development and User Experience" u.a. mit den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban und E-Learning.
 > Team: Jessica Kollmorgen, Marco Schaa, Jörg Strick
 
 * <a markdown="0" target="_blank" href="https://mariarauschenberger.net/">__Prof. Dr. Maria Rauschenberger__</a> (Hochschule Emden/Leer, Fachbereich Technik)<br>
 Schwerpunkte "Digitale Medien, Gamification, User Experience und Dislexia."
-> Team: Andreas Klein, Kristina Nagel, Anna Weigand
+> Team: Andreas Klein, Laura Meiser, Kristina Nagel, Anna Weigand, Thorsten Hallwas
 
 * <a markdown="0" target="_blank" href="https://www.hs-emden-leer.de/forschung/forschungsprofil/forschende/wirtschaft/prof-dr-eva-maria-schoen">__Prof. Dr. Eva-Maria Schön__</a>  (Hochschule Emden/Leer, Fachbereich Wirtschaft)<br>
 Schwerpunkte "Agile Produktentwicklung und Agile Transformation, Agilität in der Hochschullehre, Requirements Engineering, Digitale Transformation."
-> Team: Hanna Looks, Jenny Pilz 
+> Team: Hanna Looks, Jenny Pilz, Yaprak Turhan 
 
-* <a markdown="0" target="_blank" href="https://www.hinderks.org/">__Dr. Andreas Hinderks__</a> (freiberuflicher UX-Manager & Scrum Coach)<br>
+* <a markdown="0" target="_blank" href="https://www.hinderks.org/">__Prof. Dr. Andreas Hinderks__</a> (Hochschule Hannover)<br>
 Schwerpunkte "User Experience, UX-Fragebögen, UX-Management."
+> Team: Stephan Liebig, Finja Wegener
 
 * <a markdown="0" target="_blank" href="http://www.designik.de">__Dominique Winter__</a> (Doktorand an der Universität Siegen)<br>
 Schwerpunkte "UX-Management, Organisationsentwicklung, erlebnisorientierte Produktentwicklung."
 
 ## Weitere Mitglieder der Forschungsgruppe
-coming soon
-
-## Externe Mitglieder der Forschungsgruppe
-coming soon
+Anna-Lena Meiners, Alischa Thomas, Jana Deuschländer, Janik Fangmann
 
 
 ## Promotion

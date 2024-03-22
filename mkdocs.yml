@@ -146,4 +146,4 @@ markdown_extensions:
           format: !!python/name:mermaid2.fence_mermaid_custom
 
 copyright: |
-  &copy; 2023 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/weitere/Impressum.html">Impressum</a> --- <a href="https://thomaschewski.de/weitere/Datenschutzerkaerung.html">Datenschutzerklärung</a> --- <a href="https://thomaschewski.de/weitere/test.html">Testseite mkdocs</a>
+  &copy; 2023-2024 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/Weitere/Impressum.html">Impressum</a> --- <a href="https://thomaschewski.de/Weitere/Datenschutzerkaerung.html">Datenschutzerklärung</a> 

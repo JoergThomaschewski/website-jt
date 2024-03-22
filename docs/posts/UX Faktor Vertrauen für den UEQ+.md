@@ -2,25 +2,22 @@
 date: 2023-12-10
 categories:
   - Publikation
+  - UX-Fragebogen
   - UEQ+
   - Trust
 tags:
   - WEBIST 2023
-  - Trust
   - Validation
 ---
 ![Artikel Factor Trust](assets/2023-article-trust.PNG){align=right width="30%"}
 
 ### Quellenangabe
-*Hinderks, Andreas; Schrepp, Martin; Rauschenberger, Maria; Thomaschewski, Jörg (2023): __Reconstruction and Validation of the UX Factor Trust for the User Experience Questionnaire Plus (UEQ+)__. In: Proceedings of the 19th International Conference on Web Information Systems and Technologies (WEBIST 2023)*
-
+*Hinderks, Andreas; Schrepp, Martin; Rauschenberger, Maria; Thomaschewski, Jörg (2023): __Reconstruction and Validation of the UX Factor Trust for the User Experience Questionnaire Plus (UEQ+)__. In: Proceedings of the 19th International Conference on Web Information Systems and Technologies (WEBIST 2023)* **||** [Download](https://www.scitepress.org/Papers/2023/121867/121867.pdf)
 
 
 ### Zusammenfassung
 
-
-
-**Ziel der Studie:** Der Artikel zielt darauf ab, den UX-Faktor Vertrauen innerhalb des Kontextes der User Experience messbar zu machen. Die Autoren argumentieren, dass Vertrauen in die Software, verstanden als Zuversicht in die konsistente Funktionsweise, Sicherheit und Datenschutz, ein wesentlicher, jedoch bisher vernachlässigter Aspekt der Nutzererfahrung (= User Experience) ist.
+**Hintergrund der Studie:** Der Artikel zielt darauf ab, den UX-Faktor Vertrauen innerhalb des Kontextes der User Experience messbar zu machen. Die Autoren argumentieren, dass Vertrauen in die Software, verstanden als Zuversicht in die konsistente Funktionsweise, Sicherheit und Datenschutz, ein wesentlicher, jedoch bisher vernachlässigter Aspekt der Nutzererfahrung (= User Experience) ist.
 
 <!-- more -->
 

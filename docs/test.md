@@ -4,9 +4,6 @@
 
 ## Header 2
 
-## Zusammenfasungen zu neuen wiss. Artikeln
-Eine  Zusammenfassung des Artikels [WEBIST 2023 - Artikel UX Factor Trust.md](blog/Artikel UX Factor Trust.md) ist schon online. Viele weitere Artikel folgen bald.
-
  
 
 ## Lehrmaterial
