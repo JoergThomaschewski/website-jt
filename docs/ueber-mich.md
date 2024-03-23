@@ -62,7 +62,7 @@ Seit 2003 	Universität Sevilla (Erasmus–Austausch und Forschungsaktivitäten,
 ## Gender
 * 2008  Co-Organisator eines Symposiums im Rahmen der Gender-Tage „Frauen für die Technik gewinnen und halten“ 
 * 2008 & 2009  Teilnahme an den Gendertagen und Organisation externer Vorträge sowie Teilnahme an der Tandemlehre
-* 2018  Gründungsmitglied GENDERnet Hochschule Emden/Leer. Seit 06/2018 Beitritt des [GENDERnet in die LAGEN](https://www.nds-lagen.de){:target="_blank"}
+* 2018  Gründungsmitglied GENDERnet Hochschule Emden/Leer. Seit 06/2018 Beitritt des [GENDERnet in die LAGEN](https://www.nds-lagen.de) 
 * Wissenschaftliche Publikationen mit Bezug zum Thema Gender
 
 
@@ -71,6 +71,6 @@ Seit 2003 	Universität Sevilla (Erasmus–Austausch und Forschungsaktivitäten,
 * 2001 & 2008  Akkreditierung Medieninformatik (Bachelor), Verantwortlich für den VFH-Standort Emden
 * 2004 & 2012  Akkreditierung Medieninformatik (Master), Verantwortlich für den VFH-Standort Emden
 
-* Mitglied der [Gesellschaft für Informatik](https://gi.de/){:target="_blank"}
-* Mitglied Berufsverband [German UPA](https://germanupa.de/){:target="_blank"}
-* Modulautor folgender Online-Module (je 5 ECTS) für die [Virtuelle Fachhochschule (VFH)](https://www.vfh.de/){:target="_blank"}  Mensch Computer Kommunikation, User Experience, Internetserver-Programmierung und Internettechnologien Client/Server
+* Mitglied der [Gesellschaft für Informatik](https://gi.de/) 
+* Mitglied Berufsverband [German UPA](https://germanupa.de/) 
+* Modulautor folgender Online-Module (je 5 ECTS) für die [Virtuelle Fachhochschule (VFH)](https://www.vfh.de/)   Mensch Computer Kommunikation, User Experience, Internetserver-Programmierung und Internettechnologien Client/Server

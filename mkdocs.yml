@@ -4,7 +4,7 @@
 # cd website-mkdocs
 # .\venv\Scripts\activate.bat
 # code .
-# site_url: https://thomaschewski.de/
+site_url: https://thomaschewski.de/
 
 ### Mkdocs
 # https://squidfunk.github.io/mkdocs-material/reference/ 
@@ -42,7 +42,8 @@ theme:
   # https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
   
   
-  # logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
+  #logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
+  favicon: assets/images/favicon.ico
   
   # custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
 
@@ -90,7 +91,10 @@ extra_css:
 plugins:
   - social
   - search
-  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
+  - open-in-new-tab           # Alle Links in externen Tabs öffnen
+  - ezlinks:
+      wikilinks: true         # Erlaubt Wikilinks in [[  ]]
+#  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
   - blog:
       blog_dir: .
       post_readtime: false
@@ -146,4 +150,4 @@ markdown_extensions:
           format: !!python/name:mermaid2.fence_mermaid_custom
 
 copyright: |
-  &copy; 2023-2024 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/Weitere/Impressum.html">Impressum</a> --- <a href="https://thomaschewski.de/Weitere/Datenschutzerkaerung.html">Datenschutzerklärung</a> 
+  &copy; 2023-2024 für alle Inhalte Jörg Thomaschewski --- <a href="https://thomaschewski.de/Weitere/Impressum/">Impressum</a> --- <a href="https://thomaschewski.de/Weitere/Datenschutzerklaerung/">Datenschutzerklärung</a> 

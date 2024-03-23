@@ -17,7 +17,7 @@ tags:
 
 ### Zusammenfassung
 
-**Hintergrund der Studie:** Der Artikel zielt darauf ab, den UX-Faktor Vertrauen innerhalb des Kontextes der User Experience messbar zu machen. Die Autoren argumentieren, dass Vertrauen in die Software, verstanden als Zuversicht in die konsistente Funktionsweise, Sicherheit und Datenschutz, ein wesentlicher, jedoch bisher vernachlässigter Aspekt der Nutzererfahrung (= User Experience) ist.
+**Hintergrund der Studie:** Der Artikel ermittelt die passenden Item-Paare zum UX-Faktor "Vertrauen" für die Nutzung der Skala im UEQ+.
 
 <!-- more -->
 

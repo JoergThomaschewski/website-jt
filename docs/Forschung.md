@@ -8,19 +8,19 @@ Ich bin Mitglied im __Institut für Medien und Technik (IMuT)__ und im __Institu
 Schwerpunkte "Agile Software Development and User Experience" u.a. mit den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban und E-Learning.
 > Team: Jessica Kollmorgen, Marco Schaa, Jörg Strick
 
-* <a markdown="0" target="_blank" href="https://mariarauschenberger.net/">__Prof. Dr. Maria Rauschenberger__</a> (Hochschule Emden/Leer, Fachbereich Technik)<br>
+* __[Prof. Dr. Maria Rauschenberger](https://mariarauschenberger.net/)__ (Hochschule Emden/Leer, Fachbereich Technik)<br>
 Schwerpunkte "Digitale Medien, Gamification, User Experience und Dislexia."
 > Team: Andreas Klein, Laura Meiser, Kristina Nagel, Anna Weigand, Thorsten Hallwas
 
-* <a markdown="0" target="_blank" href="https://www.hs-emden-leer.de/forschung/forschungsprofil/forschende/wirtschaft/prof-dr-eva-maria-schoen">__Prof. Dr. Eva-Maria Schön__</a>  (Hochschule Emden/Leer, Fachbereich Wirtschaft)<br>
+* __[Prof. Dr. Eva-Maria Schön](https://www.hs-emden-leer.de/forschung/forschungsprofil/forschende/wirtschaft/prof-dr-eva-maria-schoen)__  (Hochschule Emden/Leer, Fachbereich Wirtschaft)<br>
 Schwerpunkte "Agile Produktentwicklung und Agile Transformation, Agilität in der Hochschullehre, Requirements Engineering, Digitale Transformation."
 > Team: Hanna Looks, Jenny Pilz, Yaprak Turhan 
 
-* <a markdown="0" target="_blank" href="https://www.hinderks.org/">__Prof. Dr. Andreas Hinderks__</a> (Hochschule Hannover)<br>
+* __[Prof. Dr. Andreas Hinderks](https://www.hinderks.org/)__ (Hochschule Hannover)<br>
 Schwerpunkte "User Experience, UX-Fragebögen, UX-Management."
 > Team: Stephan Liebig, Finja Wegener
 
-* <a markdown="0" target="_blank" href="http://www.designik.de">__Dominique Winter__</a> (Doktorand an der Universität Siegen)<br>
+* __[Dominique Winter](http://www.designik.de)__ (Doktorand an der Universität Siegen)<br>
 Schwerpunkte "UX-Management, Organisationsentwicklung, erlebnisorientierte Produktentwicklung."
 
 ## Weitere Mitglieder der Forschungsgruppe
