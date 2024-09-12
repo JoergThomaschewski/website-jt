@@ -6,7 +6,7 @@ Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Techni
 
 * [Programmieren 1 in Python](https://html.thomaschewski.de/) (Medientechnik 1. Semester)
 * [Internet-Grundlagen](https://netze.thomaschewski.de/) (Medientechnik 3. Semester)
-* [Internet-Programmierung](https://iprog-php.thomaschewski.de/) (Medientechnik 3. Semester)
+* [Internet-Programmierung](https://iprog-php.thomaschewski.de/) (Medientechnik 4. Semester)
 
 **Info zu diesen Seiten**
 
