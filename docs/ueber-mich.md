@@ -1,4 +1,4 @@
-![Jörg Thomaschewski](assets/jt.jpg){align=left width="20%"}
+![Jörg Thomaschewski](assets/JT-Web.jpg){align=left width="20%"}
 
 Professor für Medieninformatik an der Hochschule Emden/Leer (Fachbereich Technik) mit den Lehr- und Forschungsschwerpunkten **"Agile Software Development and User Experience"** u.a. in den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban, Internet-Programmierung und E-Learning.
 
@@ -71,6 +71,6 @@ Seit 2003 	Universität Sevilla (Erasmus–Austausch und Forschungsaktivitäten,
 * 2001 & 2008  Akkreditierung Medieninformatik (Bachelor), Verantwortlich für den VFH-Standort Emden
 * 2004 & 2012  Akkreditierung Medieninformatik (Master), Verantwortlich für den VFH-Standort Emden
 
-* Mitglied der [Gesellschaft für Informatik](https://gi.de/) 
+* 2013 - 2024 Mitglied der [Gesellschaft für Informatik](https://gi.de/) 
 * Mitglied Berufsverband [German UPA](https://germanupa.de/) 
 * Modulautor folgender Online-Module (je 5 ECTS) für die [Virtuelle Fachhochschule (VFH)](https://www.vfh.de/)   Mensch Computer Kommunikation, User Experience, Internetserver-Programmierung und Internettechnologien Client/Server

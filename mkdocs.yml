@@ -45,7 +45,7 @@ theme:
   #logo: assets/jt.jpg       # Bindet kleines Logo oben links ein
   favicon: assets/images/favicon.ico
   
-  # custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
+  custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
 
   font: false                 # Keine Google-Fonts laden
 
@@ -92,8 +92,8 @@ plugins:
   - social
   - search
   - open-in-new-tab           # Alle Links in externen Tabs öffnen
-  - ezlinks:
-      wikilinks: true         # Erlaubt Wikilinks in [[  ]]
+#  - ezlinks:
+#      wikilinks: true         # Erlaubt Wikilinks in [[  ]]
 #  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
   - blog:
       blog_dir: .
