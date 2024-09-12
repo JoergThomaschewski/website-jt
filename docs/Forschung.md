@@ -9,14 +9,14 @@ Schwerpunkte "Agile Software Development and User Experience" u.a. mit den Berei
 > Team: Jessica Kollmorgen, Marco Schaa, Jörg Strick
 
 * __[Prof. Dr. Maria Rauschenberger](https://mariarauschenberger.net/)__ (Hochschule Emden/Leer, Fachbereich Technik)<br>
-Schwerpunkte "Digitale Medien, Gamification, User Experience und Dislexia."
+Schwerpunkte "Digitale Medien, Gamification, User Experience und Accessibility."
 > Team: Andreas Klein, Laura Meiser, Kristina Nagel, Anna Weigand, Thorsten Hallwas
 
 * __[Prof. Dr. Eva-Maria Schön](https://www.hs-emden-leer.de/forschung/forschungsprofil/forschende/wirtschaft/prof-dr-eva-maria-schoen)__  (Hochschule Emden/Leer, Fachbereich Wirtschaft)<br>
 Schwerpunkte "Agile Produktentwicklung und Agile Transformation, Agilität in der Hochschullehre, Requirements Engineering, Digitale Transformation."
 > Team: Hanna Looks, Jenny Pilz, Yaprak Turhan 
 
-* __[Prof. Dr. Andreas Hinderks](https://www.hinderks.org/)__ (Hochschule Hannover)<br>
+* __[Prof. Dr. Andreas Hinderks](https://www.hinderks.org/)__ (Hochschule Hannover, Fakultät IV - Wirtschaft und Informatik)<br>
 Schwerpunkte "User Experience, UX-Fragebögen, UX-Management."
 > Team: Stephan Liebig, Finja Wegener
 
