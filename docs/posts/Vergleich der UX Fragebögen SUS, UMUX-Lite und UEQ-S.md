@@ -6,7 +6,7 @@ categories:
   - Usability
   - User Experience
 tags:
-  - JUS
+  - JUS / JUX
   - SUS
   - UMUX-LITE
   - UEQ-S
