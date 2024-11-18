@@ -1,6 +1,8 @@
 Inzwischen habe ich mehr als 150 Publikationen (mit-)veröffentlicht, die bei [**Google Scholar**](https://scholar.google.de/citations?sortby=pubdate&hl=de&user=-Oj8JzgAAAAJ) übersichtlich aufgelistet sind. Hier eine **kleine Auswahl wichtiger und relativ neuer Publikationen**.
 
 ### 2024 ###
+* Schaa, Marco; Kollmorgen, Jessica; Schrepp, Martin; Thomaschewski, Jörg (2024): __Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)__. 20th International Conference on Web Information Systems and Technologies (WEBIST 2024).* **||** [Download folgt noch](folgt noch)
+
 
 * Hinderks, Andreas; Domínguez Mayo, Francisco José; Escalona, María José; Thomaschewski, Jörg (2024): [**Requirements for User Experience Management - A Tertiary Study**](https://reunir.unir.net/bitstream/handle/123456789/16005/ip2024_01_004.pdf). In: IJIMAI (in press), DOI: 10.9781/ijimai.2024.01.004.
 > Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [UX Management wissenschaftlich betrachtet](https://thomaschewski.de/2024/03/15/ux-management-wissenschaftlich-betrachtet/)

@@ -18,13 +18,13 @@ Schwerpunkte "Agile Produktentwicklung und Agile Transformation, Agilität in de
 
 * __[Prof. Dr. Andreas Hinderks](https://www.hinderks.org/)__ (Hochschule Hannover, Fakultät IV - Wirtschaft und Informatik)<br>
 Schwerpunkte "User Experience, UX-Fragebögen, UX-Management."
-> Team: Stephan Liebig, Finja Wegener
+> Team: Tim-Can Werning
 
 * __[Dominique Winter](http://www.designik.de)__ (Doktorand an der Universität Siegen)<br>
 Schwerpunkte "UX-Management, Organisationsentwicklung, erlebnisorientierte Produktentwicklung."
 
 ## Weitere Mitglieder der Forschungsgruppe
-Anna-Lena Meiners, Alischa Thomas, Jana Deuschländer, Janik Fangmann
+Anna-Lena Meiners, Alischa Thomas, Jana Deuschländer, Janik Fangmann, Ramin Nobakht 
 
 
 ## Promotion

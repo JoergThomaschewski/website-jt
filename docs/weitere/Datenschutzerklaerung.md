@@ -176,3 +176,16 @@ Speicherung widerrufen oder der Zweck f&uuml;r die Datenspeicherung entf&auml;ll
 abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen &ndash; insbesondere
 gesetzliche Aufbewahrungsfristen &ndash; bleiben unber&uuml;hrt.</p>
 <p>Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a></p>
+
+
+### Verwendung von VG-Wort-Zählpixeln
+
+Diese Website nutzt das „Skalierbare Zentrale Messverfahren“ (SZM) der Verwertungsgesellschaft WORT (VG WORT) zur Ermittlung statistischer Kennzahlen über die Kopierwahrscheinlichkeit von Texten. Dabei werden anonyme Messwerte erhoben. Die Zugriffszahlen werden durch die Erzeugung einer anonymen Signatur ermittelt, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers besteht. Personenbezogene Daten werden hierbei nicht erfasst.
+
+Die VG WORT setzt Cookies ein, um die Analysen durchzuführen. Diese Cookies sind kleine Textdateien, die auf Ihrem Computer gespeichert werden und eine Analyse der Benutzung der Website ermöglichen. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen jedoch darauf hin, dass in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich genutzt werden können.
+
+Die Nutzung des SZM-Verfahrens erfolgt auf Grundlage unserer berechtigten Interessen gemäß Art. 6 Abs. 1 lit. f DSGVO, um die Vergütung von Autoren und Verlagen zu gewährleisten.
+
+Weitere Informationen zum Datenschutz im Zusammenhang mit dem SZM-Verfahren finden Sie auf der Website der VG WORT unter [https://www.vgwort.de/datenschutz.html](https://www.vgwort.de/datenschutz.html).
+
+ 
