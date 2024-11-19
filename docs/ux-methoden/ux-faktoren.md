@@ -110,7 +110,7 @@ In der Praxis hat sich gezeigt, dass es im Management und im Entwicklungsteam ke
 
     ---
 
-    **Andreas Hinderks** (<small>Prof. Dr.</small>)![Andreas Hinderks](assets/hinderks-600x679.jpg){align=right width="20%"}<br> arbeitet an der Hochschule Hannover und ist langjähriger Scrum Coach, der Teams in Organisationen hilft, sich zu entwickeln. Mit Methoden aus dem agilen Coaching und dem Management von User Experience unterstützt er Teams dabei, digitale Produkte mit einer hohen User Experience zu entwickeln. Er hat auf dem Gebiet UX-Management im Jahr 2021 promoviert und nutzt dieses Wissen sowie neuere Forschung auf dem Gebiet für Unternehmen und seine Lehre.
+    **Andreas Hinderks** (<small>Prof. Dr.</small>)![Andreas Hinderks](assets/hinderks-600x679.jpg){align=right width="20%"}<br> arbeitet an der Hochschule Hannover und ist langjähriger Experte im Bereich User Experience (UX). Sein Fokus liegt darauf, UX in Organisationen sichtbar und strategisch nutzbar zu machen. Durch gezielte Methoden aus dem UX-Management unterstützt er Teams dabei, digitale Produkte mit einem hervorragenden Nutzererlebnis zu gestalten. Mit seiner Promotion im Jahr 2021 auf dem Gebiet des UX-Managements und seiner kontinuierlichen Forschung bringt er wissenschaftliche Erkenntnisse in die Praxis ein – sowohl in Unternehmen als auch in der Lehre.
 
     ---
 
