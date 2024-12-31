@@ -4,7 +4,8 @@ Ich bin Mitglied im __Institut für Medien und Technik (IMuT)__ und im __Institu
 
 
 ## Mitglieder des Forschungsgruppe  
-* __Prof. Dr. Jörg Thomaschewski__, that's me :smile: (Hochschule Emden/Leer, Fachbereich Technik)<br>
+
+* __Prof. Dr. Jörg Thomaschewski__, that's me &#128521; (Hochschule Emden/Leer, Fachbereich Technik)<br>
 Schwerpunkte "Agile Software Development and User Experience" u.a. mit den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban und E-Learning.
 > Team: Jessica Kollmorgen, Marco Schaa, Jörg Strick
 
