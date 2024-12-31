@@ -1,4 +1,5 @@
 ---
+title: Zusammenfassung bisheriger UEQ-Artikel und Übersicht über die UEQ-Familie
 date: 2024-09-24
 categories:
   - Publikation
@@ -13,9 +14,7 @@ tags:
   - IPA
   - UX-Management
   - Benchmarking
-
 ---
-# Zusammenfassung bisheriger UEQ-Artikel und Übersicht über die UEQ-Familie  
 
 ![Artikel Auswahl des geeigneten UX-Fragebogens aus der UEQ-Familie](assets/2024-article-UEQ-Family.png){align=right width="30%"}
 

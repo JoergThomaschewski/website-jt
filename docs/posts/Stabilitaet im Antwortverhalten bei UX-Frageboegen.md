@@ -1,5 +1,6 @@
 ---
-date: 2024-11-25
+title: Stabilität im Antwortverhalten bei UX Fragebögen
+date: 2024-12-30
 categories:
   - Publikation
   - UX-Fragebogen
@@ -19,11 +20,11 @@ tags:
   - Microsoft Teams
 
 ---
-![Artikel Stabilität von UX-Fragebögen](assets/tbd){align=right width="30%"}
+![Artikel Stabilität von UX-Fragebögen](assets/2024-article-response-instability.png){align=right width="30%"}
 
 
 ### Quellenangabe
-*Schrepp, Martin; Thomaschewski, Jörg (2024): __Response Instability in User Experience Questionnaires__. Journal of User Experience.* **||** [Download](tbd)
+*Schrepp, Martin; Thomaschewski, Jörg (2024): __Response Instability in User Experience Questionnaires__. Journal of User Experience.* **||** [Download](https://uxpajournal.org/wp-content/uploads/sites/7/2024/11/JUX_Schrepp_Nov-2024.pdf)
 
 
 ### Zusammenfassung

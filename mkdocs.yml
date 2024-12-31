@@ -27,27 +27,11 @@ site_name: Jörg Thomaschewski - Agile UX
 
 nav:
   - Home: index.md
-  - 'UX-Methoden': 
-      - 'Übersicht': 'ux-methoden/index.md'
-      - 'UX Faktoren und Fragebögen': 'ux-methoden/ux-faktoren.md'
-      - 'Kanban und UX': 'ux-methoden/kanban.md'
-      - 'Templatebasierter Prozess zu Human-Centred Design':
-        - 'Übersicht': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/index.md'
-        - 'Level 1: Personas': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-1-personas.md'
-        - 'Level 2: Persona Map': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-2-persona-map.md'
-        - 'Level 3: Persona Kontext': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-3-persona-kontext.md'
-        - 'Level 4: Storyboards': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-4-storyboards.md'
-        - 'Level 5: Persona Goals Map': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-5-persona-goals-map.md'
-        - 'Level 6: Persona Stories': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-6-persona-stories.md'
-        - 'Level 7: Bewertungsübersicht': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-7-bewertungsuebersicht.md'
-        - 'Level 8: Persona Stories Map': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-8-persona-stories-map.md'
-        - 'Level 9: Prototyp': 'ux-methoden/templatebasierter-prozess-zu-human-centred-design/level-9-prototyp.md'
   - Schulungen und Coaching: beratung-und-schulung.md
   - Studentische Projekte: studentische-projekte.md 
   - Forschung: forschung.md
   - Publikationen: publikationen.md
   - Über mich: ueber-mich.md
-
 
 
 theme:

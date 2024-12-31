@@ -13,7 +13,7 @@ tags:
 ![Artikel Benchmark UEQ-S Vergleich](assets/2024-article-split-ueq-s.PNG){align=right width="30%"}
 
 ### Quellenangabe
-*Schaa, Marco; Kollmorgen, Jessica; Schrepp, Martin; Thomaschewski, Jörg (2024): __Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)__. 20th International Conference on Web Information Systems and Technologies (WEBIST 2024).* **||** [Download folgt noch](folgt noch)
+*Schaa, Marco; Kollmorgen, Jessica; Schrepp, Martin; Thomaschewski, Jörg (2024): __Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)__. 20th International Conference on Web Information Systems and Technologies (WEBIST 2024).* **||** [Download](https://www.scitepress.org/Papers/2024/130464/130464.pdf)
 
 ### Zusammenfassung
 

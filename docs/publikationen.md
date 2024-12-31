@@ -1,10 +1,23 @@
 Inzwischen habe ich mehr als 150 Publikationen (mit-)veröffentlicht, die bei [**Google Scholar**](https://scholar.google.de/citations?sortby=pubdate&hl=de&user=-Oj8JzgAAAAJ) übersichtlich aufgelistet sind. Hier eine **kleine Auswahl wichtiger und relativ neuer Publikationen**.
 
 ### 2024 ###
-* Schaa, Marco; Kollmorgen, Jessica; Schrepp, Martin; Thomaschewski, Jörg (2024): __Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)__. 20th International Conference on Web Information Systems and Technologies (WEBIST 2024).* **||** [Download folgt noch](folgt noch)
+* Schrepp, Martin; Thomaschewski, Jörg (2024): __Response Instability in User Experience Questionnaires__. In: Journal of User Experience (JUX) 20 (1), S. 9–26. **||** [Download](https://www.scitepress.org/Papers/2024/130464/130464.pdf)
+> Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [Stabilität im Antwortverhalten bei UX Fragebögen](https://thomaschewski.de/2024/12/30/stabilität-im-antwortverhalten-bei-ux-fragebögen/)
+
+<br>
+
+* Kollmorgen, Jessica; Hinderks, Andreas; Thomaschewski, Jörg (2024): __Selecting the Appropriate User Experience Questionnaire and Guidance for Interpretation: the UEQ Family__. In: IJIMAI (International Journal of Interactive Multimedia and Artificial Intelligence) In press (In press), S. 1. DOI: 10.9781/ijimai.2024.08.005. **||** [Download](https://reunir.unir.net/bitstream/handle/123456789/17349/Selecting%20the%20Appropriate%20User%20Experience%20Questionnaire%20and%20Guidance%20for%20Interpretation.pdf)
+> Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [Zusammenfassung bisheriger UEQ-Artikel und Übersicht über die UEQ-Familie](https://thomaschewski.de/2024/09/24/zusammenfassung-bisheriger-ueq-artikel-und-übersicht-über-die-ueq-familie/)
+
+<br>
+
+* Schaa, Marco; Kollmorgen, Jessica; Schrepp, Martin; Thomaschewski, Jörg (2024): __Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)__. 20th International Conference on Web Information Systems and Technologies (WEBIST 2024). **||** [Download](https://www.scitepress.org/Papers/2024/130464/130464.pdf)
+> Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [UX Fragebogen mit einzelnen Items versus 8 Items](https://thomaschewski.de/2024/11/18/ux-fragebogen-mit-einzelnen-items-versus-8-items/)
+
+<br>
 
 
-* Hinderks, Andreas; Domínguez Mayo, Francisco José; Escalona, María José; Thomaschewski, Jörg (2024): [**Requirements for User Experience Management - A Tertiary Study**](https://reunir.unir.net/bitstream/handle/123456789/16005/ip2024_01_004.pdf). In: IJIMAI (in press), DOI: 10.9781/ijimai.2024.01.004.
+* Hinderks, Andreas; Domínguez Mayo, Francisco José; Escalona, María José; Thomaschewski, Jörg (2024): **Requirements for User Experience Management - A Tertiary Study**. In: IJIMAI (International Journal of Interactive Multimedia and Artificial Intelligence) 8 (6), S. 160–167. DOI: 10.9781/ijimai.2024.01.004. **||** [Download](https://reunir.unir.net/bitstream/handle/123456789/16005/Requirements%20for%20User%20Experience%20Management.pdf)
 > Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [UX Management wissenschaftlich betrachtet](https://thomaschewski.de/2024/03/15/ux-management-wissenschaftlich-betrachtet/)
 
 
@@ -23,7 +36,6 @@ Inzwischen habe ich mehr als 150 Publikationen (mit-)veröffentlicht, die bei [*
 > Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [UX Faktoren für unterschiedliche Produktkategorien](https://thomaschewski.de/2023/12/09/ux-faktoren-f%C3%BCr-unterschiedliche-produktkategorien/)
 
 <br>
-
 
 * Schrepp, Martin; Kollmorgen, Jessica; Thomaschewski, Jörg (2023): [**A comparison of SUS, UMUX-LITE and UEQ-S.**](https://uxpajournal.org/sus-umux-lite-ueq-s/) In: Journal of User Experience (JUS) 18 (2), S. 86–104. 
 > Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [Vergleich der UX Fragebögen SUS, UMUX Lite und UEQ S](https://thomaschewski.de/2023/12/01/vergleich-der-ux-frageb%C3%B6gen-sus-umux-lite-und-ueq-s/)
