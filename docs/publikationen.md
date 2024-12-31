@@ -20,15 +20,16 @@ Inzwischen habe ich mehr als 150 Publikationen (mit-)veröffentlicht, die bei [*
 * Hinderks, Andreas; Domínguez Mayo, Francisco José; Escalona, María José; Thomaschewski, Jörg (2024): **Requirements for User Experience Management - A Tertiary Study**. In: IJIMAI (International Journal of Interactive Multimedia and Artificial Intelligence) 8 (6), S. 160–167. DOI: 10.9781/ijimai.2024.01.004. **||** [Download](https://reunir.unir.net/bitstream/handle/123456789/16005/Requirements%20for%20User%20Experience%20Management.pdf)
 > Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [UX Management wissenschaftlich betrachtet](https://thomaschewski.de/2024/03/15/ux-management-wissenschaftlich-betrachtet/)
 
+<br>
+
+* Meiners, Anna-Lena; Schrepp, Martin; Hinderks, Andreas; Thomaschewski, Jörg (2024): [**A Benchmark for the UEQ+ Framework: Construction of a Simple Tool to Quickly Interpret UEQ+ KPIs.**](https://www.ijimai.org/journal/sites/default/files/2024-11/ijimai_9_1_10.pdf)  In: IJIMAI (International Journal of Interactive Multimedia and Artificial Intelligence) 9 (1), S. 104–111. DOI: 10.9781/ijimai.2023.05.003.
+> Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [Benchmark und KPIs für den UEQ+](https://thomaschewski.de/2023/12/09/benchmark-und-kpis-f%C3%BCr-den-ueq/)
+
 
 ### 2023 ###
 * Hinderks, Andreas; Schrepp, Martin; Rauschenberger, Maria; Thomaschewski, Jörg (2023): [**Reconstruction and Validation of the UX Factor Trust for the User Experience Questionnaire Plus (UEQ+)**](https://www.scitepress.org/Papers/2023/121867/121867.pdf). In: Proceedings of the 19th International Conference on Web Information Systems and Technologies (WEBIST 2023) .
 > Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [UX Faktor Vertrauen für den UEQ+](https://thomaschewski.de/2023/12/10/ux-faktor-vertrauen-f%C3%BCr-den-ueq/)
 
-<br>
-
-* Meiners, Anna-Lena; Schrepp, Martin; Hinderks, Andreas; Thomaschewski, Jörg (2023): [**A Benchmark for the UEQ+ Framework: Construction of a Simple Tool to Quickly Interpret UEQ+ KPIs.**](https://www.ijimai.org/journal/bibcite/reference/3316)  In: IJIMAI (in press).
-> Eine kurze Zusammenfassung des Artikels gibt es im Blogbeitrag [Benchmark und KPIs für den UEQ+](https://thomaschewski.de/2023/12/09/benchmark-und-kpis-f%C3%BCr-den-ueq/)
 
 <br>
 
