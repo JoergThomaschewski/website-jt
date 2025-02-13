@@ -19,4 +19,4 @@ Mein Ziel ist es, übersichtliche und informative Internetauftritte zu erstellen
 -->
 ## Blogbeiträge
 
-Hier veröffentliche ich Zusammenfassungen unserer wissenschaftlichen Publikationen, um Ihnen einen schnellen Überblick zu bieten. Zwar lassen sich heutzutage auch KI-generierte Zusammenfassungen erstellen, doch die hier veröffentlichten Versionen wurden von mir inhaltlich geprüft.
+Hier veröffentliche ich Zusammenfassungen unserer wissenschaftlichen Publikationen, um Ihnen einen schnellen Überblick zu bieten. Anmerkung: derzeit probiere ich verschiedene Versionen der Zusammenfassungen aus, sodass Sie die ersten drei Zusammenfassungen immer in einer Version A und einer Version B sehen.

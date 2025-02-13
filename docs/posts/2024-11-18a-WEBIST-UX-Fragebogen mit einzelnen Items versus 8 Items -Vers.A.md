@@ -1,4 +1,5 @@
 ---
+title: UX-Fragebogen mit einzelnen Items versus 8 Items - Vers.A
 date: 2024-11-18
 categories:
   - Publikation
@@ -12,12 +13,15 @@ tags:
 
 ![Artikel Benchmark UEQ-S Vergleich](assets/2024-article-split-ueq-s.PNG){align=right width="30%"}
 
-### Quellenangabe
-*Schaa, Marco; Kollmorgen, Jessica; Schrepp, Martin; Thomaschewski, Jörg (2024): __Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)__. 20th International Conference on Web Information Systems and Technologies (WEBIST 2024).* **||** [Download](https://www.scitepress.org/Papers/2024/130464/130464.pdf)
+*Schaa, Marco; Kollmorgen, Jessica; Schrepp, Martin; Thomaschewski, Jörg (2024): <br> __Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)__.* **||** 
+<a href="https://www.scitepress.org/Papers/2024/130464/130464.pdf">Download</a>
+
+
 
 ### Zusammenfassung
 
 **Hintergrund der Studie:** Diese Studie untersucht, wie das Aufteilen des UEQ-S in einzelne Items die Rücklaufquote erhöht und inwiefern dies die Ergebnisse verändert. Hierzu wurden die Items in einen deutschen Online-Shop integriert und das reale Verhalten von 1.387 Kundinnen und Kunden untersucht.
+
 
 <!-- more -->
 

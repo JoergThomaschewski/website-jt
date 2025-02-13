@@ -1,5 +1,6 @@
 ---
-date: 2023-12-09
+title: UX Faktoren für unterschiedliche Produktkategorien
+date: 2023-12-08
 categories:
   - Publikation
   - UX-Fragebogen
@@ -10,7 +11,6 @@ tags:
 ---
 ![Artikel UX Quality Aspects](assets/2023-article-ux-quality-aspects.PNG){align=right width="30%"}
 
-### Quellenangabe
 *Schrepp, Martin; Kollmorgen, Jessica; Meiners, Anna-Lena; Hinderks, Andreas; Winter, Dominique; Santoso, Harry B.; Thomaschewski, Jörg (2023): __On the Importance of UX Quality Aspects for Different Product Categories__. In: International Journal of Interactive Multimedia and Artificial Intelligence, Vol. 8, No. 2* **||** [Download](https://reunir.unir.net/bitstream/handle/123456789/14368/ijimai8_2_22.pdf)
 
 ### Zusammenfassung

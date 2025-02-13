@@ -1,4 +1,5 @@
 ---
+title: UX Management wissenschaftlich betrachtet
 date: 2024-03-15
 categories:
   - Publikation
@@ -13,7 +14,6 @@ tags:
 ---
 ![Artikel UX Management Anforderungen](assets/2024-article-ux-management-requirements.PNG){align=right width="30%"}
 
-### Quellenangabe
 *Hinderks, Andreas; Domínguez Mayo, Francisco José; Escalona, María José; Thomaschewski, Jörg (2024): **Requirements for User Experience Management - A Tertiary Study**. In: IJIMAI (International Journal of Interactive Multimedia and Artificial Intelligence) 8 (6), S. 160–167. DOI: 10.9781/ijimai.2024.01.004.* **||** [Download](https://reunir.unir.net/bitstream/handle/123456789/16005/Requirements%20for%20User%20Experience%20Management.pdf)
 
 

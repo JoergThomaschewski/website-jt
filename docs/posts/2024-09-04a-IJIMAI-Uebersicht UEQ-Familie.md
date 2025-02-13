@@ -1,5 +1,6 @@
 ---
-title: Zusammenfassung bisheriger UEQ-Artikel und Übersicht über die UEQ-Familie
+title: Zusammenfassung bisheriger UEQ-Artikel und Übersicht über die UEQ-Familie - Vers.A
+
 date: 2024-09-24
 categories:
   - Publikation
@@ -18,7 +19,6 @@ tags:
 
 ![Artikel Auswahl des geeigneten UX-Fragebogens aus der UEQ-Familie](assets/2024-article-UEQ-Family.png){align=right width="30%"}
 
-### Quellenangabe
 *Kollmorgen, Jessica; Hinderks, Andreas; Thomaschewski, Jörg (2024): __Selecting the Appropriate User Experience Questionnaire and Guidance for Interpretation: the UEQ Family__. International Journal of Interactive Multimedia and Artificial Intelligence.* **||** [Download](https://www.ijimai.org/journal/sites/default/files/2024-08/ip2024_08_005.pdf)
 
 ### Zusammenfassung

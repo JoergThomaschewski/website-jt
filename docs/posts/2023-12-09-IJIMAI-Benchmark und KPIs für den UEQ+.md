@@ -1,4 +1,5 @@
 ---
+title: Benchmark und KPIs für den UEQ+
 date: 2023-12-09
 categories:
   - Publikation
@@ -15,7 +16,6 @@ tags:
 ![Artikel Benchmark UEQ+ Framework](assets/2023-article-benchmark-ueq-framework.PNG){align=right width="30%"}
 
 
-### Quellenangabe
 *Meiners, Anna-Lena; Schrepp, Martin; Hinderks, Andreas; Thomaschewski, Jörg (2024): __A Benchmark for the UEQ+ Framework: Construction of a Simple Tool to Quickly Interpret UEQ+ KPIs__. In: IJIMAI (International Journal of Interactive Multimedia and Artificial Intelligence) 9 (1), S. 104–111. DOI: 10.9781/ijimai.2023.05.003.* **||** [Download](https://www.ijimai.org/journal/sites/default/files/2024-11/ijimai_9_1_10.pdf)
 
 

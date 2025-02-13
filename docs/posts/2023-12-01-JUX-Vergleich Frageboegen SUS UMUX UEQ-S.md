@@ -1,4 +1,5 @@
 ---
+title: Vergleich der UX Fragebögen SUS, UMUX-Lite und UEQ-S
 date: 2023-12-01
 categories:
   - Publikation
@@ -13,7 +14,6 @@ tags:
 ---
 ![Artikel Vergleich SUS, UMUX-LITE, UEQ-S](assets/2023-article-comparison-sus-umux-lite-ueq-s.PNG){align=right width="30%"}
 
-### Quellenangabe
 *Schrepp, Martin; Kollmorgen, Jessica; Thomaschewski, Jörg (2023): __A Comparison of SUS, UMUX-LITE, and UEQ-S__. In: Journal of User Experience, Vol. 18, Issue 2, February 2023, pp. 86-104* **||** [Download](https://uxpajournal.org/sus-umux-lite-ueq-s/)
 
 ### Zusammenfassung
